@@ -8,6 +8,9 @@ pip3 install requests
 ```bash
 python3 91_spider.py
 ```
-# 关于作者
+# 修改者
+LHSB
+
+# 关于原作者
 网站：https://eqblog.com
 邮箱：sys@t667.com
